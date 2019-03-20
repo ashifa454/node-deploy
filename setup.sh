@@ -1,2 +1,3 @@
+# sudo apt install curl
 #Install node.js
-sh ./node.sh
+sh ./install_node.sh
